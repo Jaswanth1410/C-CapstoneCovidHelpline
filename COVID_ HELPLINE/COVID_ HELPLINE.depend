@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626164687 source:c:\users\jaswanthsai\desktop\amrita2semister\19cse102\19cse102 lab\covid_ helpline\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
